@@ -4,7 +4,7 @@
 - 所有程式專案可在 projects 資料夾中找到，附有 `.pcf` 檔
 - 有沒有問題啊？如有疑問請來信 [chungkuanhung@gmail.com](mailto:chungkuanhung@gmail.com)
 - 同步發佈於 [Github](https://github.com/chungkuanhung/microprocessor_final)
-- [成果展示影片] (https://youtu.be/-JvfVR2Us4Q)
+- [成果展示影片](https://youtu.be/-JvfVR2Us4Q)
 
 ## 1. (15 pts) 下列請以 GPIOB 完成，七段顯示器型號為 DC56-11EWA：
 ### i. (5 pts) 將所有 pin 設定為 output mode，並使 pin 0~15 輸出為 0xAAAA。
